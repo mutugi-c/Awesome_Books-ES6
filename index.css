@@ -16,6 +16,7 @@ html {
 .container {
   margin: 0 auto;
   text-align: center;
+  position: relative;
 }
 
 h1 {
@@ -91,9 +92,11 @@ footer {
   border: 2px solid;
   display: flex;
   height: 10vh;
-  margin: 4rem auto 2rem;
+  margin: 0 2rem 4rem;
   padding: 0 2rem;
-  width: 100%;
+  position: fixed;
+  bottom: 0;
+  width: 88%;
 }
 
 nav {
