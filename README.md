@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mutugi-c.github.io/Awesome-books-ES6/)
+- [Live Demo Link](https://mutugi-c.github.io/Awesome_Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
